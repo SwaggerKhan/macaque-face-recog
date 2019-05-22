@@ -1,0 +1,6 @@
+opency-python
+Numpy
+Scipy
+scikit-learn
+matplotlib
+PyQt5
